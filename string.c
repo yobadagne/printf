@@ -1,4 +1,4 @@
-#include "mian.h"
+#include "main.h"
 /**
  * convert_s - Converts an argument to a string and
  *             stores it to a buffer contained in a struct.
