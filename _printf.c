@@ -1,9 +1,3 @@
-/*
- * File: _printf.c
- * Auth: Brennan D Baraban
- *       Michael Klein
- */
-
 #include "main.h"
 
 void cleanup(va_list args, buffer_t *output);
